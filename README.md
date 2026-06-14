@@ -32,7 +32,7 @@ This project goes beyond simple forecasting - it combines trend analysis, season
 | **External Signals** | Oil price impact, holiday analysis |
 | **Store Analysis** | Performance by type, top and bottom stores |
 | **Forecasting** | Prophet base and improved with regressors |
-| **Evaluation** | MAE, RMSE, MAPE — before and after comparison |
+| **Evaluation** | MAE, RMSE, MAPE - before and after comparison |
 | **Visualization** | Heatmap, time series, bar charts, components |
 
 ---
@@ -104,7 +104,7 @@ Adding oil price and promotions as regressors improved it to 14.06%. The remaini
 
 | Priority | Action |
 |---|---|
-| 1 | Benchmark Type A stores against Type C — the 3.5x gap is too large to ignore |
+| 1 | Benchmark Type A stores against Type C - the 3.5x gap is too large to ignore |
 | 2 | Set an oil price alert at $60/barrel as a macro demand signal |
 | 3 | Use the forecast to align staffing and inventory with weekend and seasonal peaks |
 
