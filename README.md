@@ -14,7 +14,7 @@ This project goes beyond simple forecasting - it combines trend analysis, season
 
 ## 🗂️ Dataset
 
-**Source:** [Store Sales - Time Series Forecasting — Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
+**Source:** [Store Sales - Time Series Forecasting - Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 
 - 3,000,888 transaction lines
 - 54 stores across Ecuador (2013-2017)
