@@ -1,4 +1,4 @@
-# 🏪 Store Sales — Time Series Forecasting
+# 🏪 Store Sales - Time Series Forecasting
 Python | Pandas | Prophet | Matplotlib | Seaborn
 
 ---
